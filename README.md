@@ -1,3 +1,35 @@
+# North Architecture Website
+
+- A modern, responsive website for an architecture firm built with Next.js and TypeScript.
+- Inspired by: https://www.framer.com/marketplace/templates/north-20/
+
+
+## ✨ Features
+
+- 📱 Fully responsive design
+- 🎨 Modern, minimalist aesthetic
+- 🖼️ Optimized image loading
+- 🌙 Light/dark mode support
+- 🎯 SEO optimized
+- 📝 TypeScript support
+- 🚄 Fast page loads with Next.js
+- 💅 Tailwind CSS for styling
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js 15](https://nextjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Font:** [Urbanist](https://fonts.google.com/specimen/Urbanist)
+- **Package Manager:** [Bun](https://bun.sh/)
+- **Deployment:** [Netlify](https://www.netlify.com/)
+- **Linting:** 
+  - [Biome](https://biomejs.dev/)
+  - [ESLint](https://eslint.org/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
