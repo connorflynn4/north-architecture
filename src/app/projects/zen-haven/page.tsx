@@ -79,16 +79,26 @@ export default function ZenHavenPage() {
         </div>
       </section>
 
-      {/* Additional Project Image */}
+      {/* Additional Project Images */}
       <section className="pb-20">
         <div className="container-custom">
-          <div className="relative aspect-video w-full">
-            <Image
-              src="/zen-haven-interior.png"
-              alt="Zen Haven Interior"
-              fill
-              className="object-cover rounded-md"
-            />
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="relative aspect-square w-full">
+              <Image
+                src="/zen-haven-interior.png"
+                alt="Zen Haven Interior"
+                fill
+                className="object-cover rounded-[2rem]"
+              />
+            </div>
+            <div className="relative aspect-square w-full">
+              <Image
+                src="/zen-haven-interior2.png"
+                alt="Zen Haven Interior"
+                fill
+                className="object-cover rounded-[2rem]"
+              />
+            </div>
           </div>
         </div>
       </section>
